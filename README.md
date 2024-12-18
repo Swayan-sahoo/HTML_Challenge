@@ -1,6 +1,6 @@
 # HTML_Challenge
 # Mars Data Web Scraping and Analysis
-# Overview
+## Overview
 This project involves web scraping and data analysis to explore Mars-related data. It consists of two parts:
 
 Scraping Mars News
